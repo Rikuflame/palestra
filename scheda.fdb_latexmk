@@ -1,9 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1793215195.05224 "c:/Users/nethe/Desktop/allenamento/scheda.tex" "scheda.pdf" "scheda" 1793215196.0217 0
+["pdflatex"] 1793216256.65045 "c:/Users/nethe/Desktop/allenamento/scheda.tex" "scheda.pdf" "scheda" 1793216257.65771 0
   "C:/Users/nethe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1790920522 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "C:/Users/nethe/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1793214975 12668 dfa7ffd6ef537f54f124871612e9b761 ""
   "C:/Users/nethe/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1790084498 13373065 48e2da7b83aadb021c23303a8301b9db ""
-  "C:/Users/nethe/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1095.tfm" 993062508 1460 8005ce585ff351dff78998923504da5e ""
   "C:/Users/nethe/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/nethe/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/nethe/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -84,10 +82,10 @@
   "C:/Users/nethe/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1780057721 17611 1fdd60d12fed6aebd140f4d060571642 ""
   "C:/Users/nethe/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/nethe/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/nethe/Desktop/allenamento/scheda.tex" 1793215193 6064 91c628de5af324bc97529c404ca235e6 ""
-  "scheda.aux" 1793215195 302 56f4e36be435fccf0528ed7317fb1b99 "pdflatex"
-  "scheda.out" 1793215195 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "scheda.tex" 1793215193 6064 91c628de5af324bc97529c404ca235e6 ""
+  "c:/Users/nethe/Desktop/allenamento/scheda.tex" 1793215594 5906 202125aa6af1e13215c139ccbf35bf89 ""
+  "scheda.aux" 1793216257 302 56f4e36be435fccf0528ed7317fb1b99 "pdflatex"
+  "scheda.out" 1793216257 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "scheda.tex" 1793215594 5906 202125aa6af1e13215c139ccbf35bf89 ""
   (generated)
   "scheda.aux"
   "scheda.log"
